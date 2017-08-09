@@ -1,0 +1,19 @@
+body{
+  font-familiy: 'Roboto', sans-serif;
+  font-size: 18px;
+  line-height: 22px;
+  color: red;
+  max-width: 1920px;
+  margin: 0 auto;
+  padding: 0;
+}
+
+h1{
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 35px;
+  color:red;
+  margin: 0 0 20px 0;
+  padding: 0;
+  display: block;
+}
